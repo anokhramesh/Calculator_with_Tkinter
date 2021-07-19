@@ -18,7 +18,7 @@ def btnEqualsInput():
     operator =""
     
 cal = Tk()
-cal.title("Calculator")
+cal.title("ANOKHAUTOMATION")
 operator =""
 text_Input = StringVar()
 txtDisplay = Entry(cal,font=('arial',20,'bold'),textvariable=text_Input,bd=30,insertborderwidth=4,bg="powder blue",
